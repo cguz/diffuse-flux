@@ -1,0 +1,1 @@
+protobuf sentencepiece transformers accelerate huggingface-cli torch diffurers
