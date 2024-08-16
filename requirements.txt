@@ -1,1 +1,6 @@
-protobuf sentencepiece transformers accelerate huggingface-cli torch diffurers
+protobuf 
+sentencepiece 
+transformers 
+accelerate 
+torch 
+diffusers
